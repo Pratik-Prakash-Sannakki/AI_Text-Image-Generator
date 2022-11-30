@@ -1,6 +1,6 @@
 # AI_Text_To_Image
 
-An Application that Coverts text input given to realistic images. the application was developed using PyQT5 with PyTorch-Cuda version. The model used in this project is   Stable diffusion.  
+An Application that realistic-photo images with text input. The application was developed using PyQT5 with PyTorch-Cuda version. Model used in this project is   Stable diffusion.  
 
 Stable Diffusion is a latent text-to-image diffusion model capable of generating High Resolution photo-realistic images given any text input.
 
