@@ -5,11 +5,17 @@ An Application that Coverts text input given to realistic images. the applicatio
 Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input.
 
 
-**Results **
-<img src="https://user-images.githubusercontent.com/114252357/204705704-1eba3b4e-1843-4cf5-ba0b-4717a62be411.jpg" width="300" height="300">
-<img src="https://user-images.githubusercontent.com/114252357/204705744-79b74fbc-83d6-412f-8cc8-c629207e23a5.jpg" width="300" height="300">
-<img src="https://user-images.githubusercontent.com/114252357/204705765-c88f1363-131a-453c-b330-9c160627b533.jpg" width="300" height="300">
+**Results**
+
+
+<img src="https://user-images.githubusercontent.com/114252357/204707155-d8bdbc61-5922-4661-bbea-afb52876eff0.jpg" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/114252357/204707166-2ed1fb0d-1dfc-4850-9840-ef44c6071516.jpg" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/114252357/204707182-1be3b37f-b528-441d-9298-1a4c08cffcef.jpg" width="300" height="300">
 
 
 
-commands
+Commands
+
+1. pip install requirements.txt
+2. pip install --upgrade diffusers transformers scipy
+3. pip
