@@ -26,4 +26,4 @@ the above images were geneareted by inputs "Bear on Mars", "a photo of an astron
 4. python app.py
 
 
-Note - Authentication token has to be genearted from: https://huggingface.co/docs/hub/security-tokens
+Note - Authentication token has to be generated from: https://huggingface.co/docs/hub/security-tokens
