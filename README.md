@@ -1,4 +1,4 @@
-# AI_Text_To_Image
+# AI Text-Image Generator 
 
 An Application that realistic-photo images with text input. The application was developed using PyQT5 with PyTorch-Cuda version. Model used in this project is   Stable diffusion.  
 
