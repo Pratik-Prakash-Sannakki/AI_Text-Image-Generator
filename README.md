@@ -1,6 +1,6 @@
 # AI Text-Image Generator 
 
-An Application that realistic-photo images with text input. The application was developed using PyQT5 with PyTorch-Cuda version. Model used in this project is   Stable diffusion.  
+An Application that genrates realistic-photo images with text input. The application was developed using PyQT5 with PyTorch-Cuda version. Model used in this project is   Stable diffusion.  
 
 Stable Diffusion is a latent text-to-image diffusion model capable of generating High Resolution photo-realistic images given any text input.
 
