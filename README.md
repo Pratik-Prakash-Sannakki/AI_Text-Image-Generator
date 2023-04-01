@@ -14,7 +14,7 @@ https://medium.com/@pratikpsannakki1/text-to-image-a-gan-based-application-12e92
 
 
 
-<img src="https://user-images.githubusercontent.com/114252357/204707155-d8bdbc61-5922-4661-bbea-afb52876eff0.jpg" width="200" height="200"><img src="https://user-images.githubusercontent.com/114252357/204707166-2ed1fb0d-1dfc-4850-9840-ef44c6071516.jpg" width="200" height="200"><img src="https://user-images.githubusercontent.com/114252357/204707182-1be3b37f-b528-441d-9298-1a4c08cffcef.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/114252357/204707155-d8bdbc61-5922-4661-bbea-afb52876eff0.jpg" width="250" height="250"><img src="https://user-images.githubusercontent.com/114252357/204707166-2ed1fb0d-1dfc-4850-9840-ef44c6071516.jpg" width="250" height="250"><img src="https://user-images.githubusercontent.com/114252357/204707182-1be3b37f-b528-441d-9298-1a4c08cffcef.jpg" width="250" height="250">
 
 the above images were geneareted by inputs "Bear on Mars", "a photo of an astronaut riding a horse on mars", "A fantasy landscape, trending on artstation"
 
